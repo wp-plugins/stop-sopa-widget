@@ -18,6 +18,7 @@ The SOPA popup will only be displayed on January 18th from 8am-8pm EST (1300-010
 Help us protect the internet! Contact your representatives, spread the word, and join us in protesting censorship!
 
 Features include:
+
 *   Defaults to show the Stop SOPA message on January 18th from 8am-8pm EST (1300-0100 UTC)
 *   Uses cookies so the message is only shown once
 *   Loaded asynchronously (won't block the rendering of your page or cause another point of failure)
